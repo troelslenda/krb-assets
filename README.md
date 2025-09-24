@@ -53,6 +53,5 @@ For detailed requirements and compliance, please refer to the ruleset defined in
 | [piggy-bank.money.dot.bars.md.svg](spot-illustrations/piggy-bank.money.dot.bars.md.svg) | ![piggy-bank.money.dot.bars.md.svg](spot-illustrations/piggy-bank.money.dot.bars.md.svg) |
 | [plant-leaf.bars.medium.svg](spot-illustrations/plant-leaf.bars.medium.svg) | ![plant-leaf.bars.medium.svg](spot-illustrations/plant-leaf.bars.medium.svg) |
 | [robot.NONE.dot.body.lg.svg](spot-illustrations/robot.NONE.dot.body.lg.svg) | ![robot.NONE.dot.body.lg.svg](spot-illustrations/robot.NONE.dot.body.lg.svg) |
-| [test with spaces.svg](spot-illustrations/test%20with%20spaces.svg) | ![test%20with%20spaces.svg](spot-illustrations/test%20with%20spaces.svg) |
 
 <!--- SPOT ILLUSTRATIONS END -->
