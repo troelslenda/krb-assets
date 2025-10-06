@@ -46,8 +46,8 @@ For detailed requirements and compliance, please refer to the ruleset defined in
 | [invest-page.money.dot.circle.medium.svg](spot-illustrations/invest-page.money.dot.circle.medium.svg) | ![invest-page.money.dot.circle.medium.svg](spot-illustrations/invest-page.money.dot.circle.medium.svg) |
 | [investboard.papers.dot.rectangle.large.svg](spot-illustrations/investboard.papers.dot.rectangle.large.svg) | ![investboard.papers.dot.rectangle.large.svg](spot-illustrations/investboard.papers.dot.rectangle.large.svg) |
 | [megaphone.sound.megaphone-part.circle.xlarge.svg](spot-illustrations/megaphone.sound.megaphone-part.circle.xlarge.svg) | ![megaphone.sound.megaphone-part.circle.xlarge.svg](spot-illustrations/megaphone.sound.megaphone-part.circle.xlarge.svg) |
-| [money.arrow.dot.bars.medium.svg](spot-illustrations/money.arrow.dot.bars.medium.svg) | ![money.arrow.dot.bars.medium.svg](spot-illustrations/money.arrow.dot.bars.medium.svg) |
-| [money.dot.bars.medium.svg](spot-illustrations/money.dot.bars.medium.svg) | ![money.dot.bars.medium.svg](spot-illustrations/money.dot.bars.medium.svg) |
+| [money.arrow.coin.bars.medium.svg](spot-illustrations/money.arrow.coin.bars.medium.svg) | ![money.arrow.coin.bars.medium.svg](spot-illustrations/money.arrow.coin.bars.medium.svg) |
+| [money.none.coin.bars.medium.svg](spot-illustrations/money.none.coin.bars.medium.svg) | ![money.none.coin.bars.medium.svg](spot-illustrations/money.none.coin.bars.medium.svg) |
 | [piggy-bank.money.money-dot.bars.medium.svg](spot-illustrations/piggy-bank.money.money-dot.bars.medium.svg) | ![piggy-bank.money.money-dot.bars.medium.svg](spot-illustrations/piggy-bank.money.money-dot.bars.medium.svg) |
 | [plant.bars.leaf.bars.medium.svg](spot-illustrations/plant.bars.leaf.bars.medium.svg) | ![plant.bars.leaf.bars.medium.svg](spot-illustrations/plant.bars.leaf.bars.medium.svg) |
 | [robot.none.antenna-dot.body.large.svg](spot-illustrations/robot.none.antenna-dot.body.large.svg) | ![robot.none.antenna-dot.body.large.svg](spot-illustrations/robot.none.antenna-dot.body.large.svg) |
