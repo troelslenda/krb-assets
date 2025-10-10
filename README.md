@@ -26,7 +26,7 @@ For detailed requirements and compliance, please refer to the ruleset defined in
 | [banknotes.arrow.dot.circle.medium.svg](spot-illustrations/banknotes.arrow.dot.circle.medium.svg) | ![banknotes.arrow.dot.circle.medium.svg](spot-illustrations/banknotes.arrow.dot.circle.medium.svg) |
 | [bell.checkmark.dot.bars.xlarge.svg](spot-illustrations/bell.checkmark.dot.bars.xlarge.svg) | ![bell.checkmark.dot.bars.xlarge.svg](spot-illustrations/bell.checkmark.dot.bars.xlarge.svg) |
 | [bell.exclamation-mark.triangle.bars.medium.svg](spot-illustrations/bell.exclamation-mark.triangle.bars.medium.svg) | ![bell.exclamation-mark.triangle.bars.medium.svg](spot-illustrations/bell.exclamation-mark.triangle.bars.medium.svg) |
-| [box.curve.box.half-circle.medium.md.svg](spot-illustrations/box.curve.box.half-circle.medium.md.svg) | ![box.curve.box.half-circle.medium.md.svg](spot-illustrations/box.curve.box.half-circle.medium.md.svg) |
+| [box.curve.box.half-circle.medium.svg](spot-illustrations/box.curve.box.half-circle.medium.svg) | ![box.curve.box.half-circle.medium.svg](spot-illustrations/box.curve.box.half-circle.medium.svg) |
 | [box.none.plus-dot.bars.large.svg](spot-illustrations/box.none.plus-dot.bars.large.svg) | ![box.none.plus-dot.bars.large.svg](spot-illustrations/box.none.plus-dot.bars.large.svg) |
 | [calculator.money.coin.rectangle.medium.svg](spot-illustrations/calculator.money.coin.rectangle.medium.svg) | ![calculator.money.coin.rectangle.medium.svg](spot-illustrations/calculator.money.coin.rectangle.medium.svg) |
 | [calendar.money.coin.bars.medium.svg](spot-illustrations/calendar.money.coin.bars.medium.svg) | ![calendar.money.coin.bars.medium.svg](spot-illustrations/calendar.money.coin.bars.medium.svg) |
