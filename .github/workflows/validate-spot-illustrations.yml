@@ -1,0 +1,23 @@
+name: Validate Spot Illustrations
+
+on:
+  push:
+    paths:
+      - 'spot-illustrations/**'
+  pull_request:
+    paths:
+      - 'spot-illustrations/**'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run SVG validator
+        run: python spot_illustration_validator.py spot-illustrations
