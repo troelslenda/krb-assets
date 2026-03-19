@@ -1,9 +1,6 @@
 name: Validate Spot Illustrations
 
 on:
-  push:
-    paths:
-      - 'spot-illustrations/**'
   pull_request:
     paths:
       - 'spot-illustrations/**'
