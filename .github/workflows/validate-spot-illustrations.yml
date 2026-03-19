@@ -1,4 +1,4 @@
-name: Validate Spot Illustrations
+name: Spot Illustrations
 
 on:
   pull_request:
@@ -7,6 +7,7 @@ on:
 
 jobs:
   validate:
+    name: Validation
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
